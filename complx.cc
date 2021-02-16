@@ -48,5 +48,10 @@ int main()
       c1[i].print();
   }
   cout<<"This is first version "<<endl;
+  c1[i].add(c1[i+1]);
+    for(i=0;i<n;i++)//this for loop is for printing values
+  {
+      c1[i].print();
+  }
  return 0;
 }
