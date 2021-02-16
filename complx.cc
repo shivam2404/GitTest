@@ -20,12 +20,15 @@ public:
     void print()//Print function print values of complex number
     {
         cout<<real<<"+"<<imag<<"i"<<endl;
+                cout<<"Adding insdie print "<<endl;
+
     }
     Compx add(Compx c2)
     {
         Compx temp;
         temp.real=real+c2.real;
         temp.imag=imag+c2.imag;
+        cout<<"Adding insdie print "<<endl;
         return temp;
     }
 };
