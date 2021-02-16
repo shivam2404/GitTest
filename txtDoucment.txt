@@ -2,4 +2,9 @@
 2. Now try to commit
 sjkdjf  seco3
 3. Mujhe to prakitzkumm to jaur milege
-nd version of code and add one more line in print fucntion insdie class
+nd version of code and add one more line in print fucnt
+
+
+
+ion insdie class
+to check git has change something or not
